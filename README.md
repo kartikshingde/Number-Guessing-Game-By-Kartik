@@ -1,2 +1,2 @@
-# Number-Guessing-Game-By-Kartik.github.io
-A Simple Number Gussing Game Web Page 
+# Number-Guessing-Game
+A Simple Number Gussing game Web Page Using HTML,CSS,JS
